@@ -63,9 +63,9 @@ Possuo experiência em redes corporativas, atuando em empresas de médio e grand
 🔹 *Cibersegurança “Analista de Defesa e Ataque Cibernética* – XP Educação  
 🔹 *CAWS Technical Essentials e Profissional Técnico AWS* – AWS Training and Certification  
 🔹 *Firewall Blockbit Platform 2.0* – Blockbit Tecnologia Ltda  
-🔹 *CCNA* SENAC  
-🔹 *MCSA 2003 e 2012* Instituto Infnet  
-🔹 *LPI Linux System Administrator* M. Cury  
+🔹 *CCNA* - SENAC  
+🔹 *MCSA 2003 e 2012* - Instituto Infnet  
+🔹 *LPI Linux System Administrator* M. - Cury  
 
 ## 📌 Experiência Profissional
 

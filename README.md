@@ -65,7 +65,7 @@ Possuo experiência em redes corporativas, atuando em empresas de médio e grand
 🔹 *Firewall Blockbit Platform 2.0* – Blockbit Tecnologia Ltda  
 🔹 *CCNA* - SENAC  
 🔹 *MCSA 2003 e 2012* - Instituto Infnet  
-🔹 *LPI Linux System Administrator* M. - Cury  
+🔹 *LPI Linux System Administrator* - M. Cury  
 
 ## 📌 Experiência Profissional
 

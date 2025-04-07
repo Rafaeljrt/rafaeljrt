@@ -2,29 +2,16 @@
 
 🔐 *Especialista em Infraestrutura e Segurança da Informação*  
 📍 Rio de Janeiro – RJ | Disponível para mudanças e viagens  
-
-ok
-
  🔗 [LinkedIn](https://www.linkedin.com/in/rafaeljrt/)  
  📧 [rafaeljrt@gmail.com](mailto:rafaeljrt@gmail.com)  
 
-
-Teste
-
-<a href="intent://send/21972221133#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end">Olá, vamos Conversar?</a>
-
-
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/rafaeljrt/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 ## 🙋‍♂ Sobre mim
-Profissional com mais de 25 anos de experiência em *Infraestrutura de TI, com foco em *Segurança e Implementação de soluções*.  
+Possuo experiência em redes corporativas, atuando em empresas de médio e grande porte na área de TI. Experiência com administração e migração de ambientes Windows e Linux, atendimento ao usuário, coordenação de equipe. Experiência em Cloud da AWS e Azure “IaaS, PaaS e SaaS”. Habilidade de negociação e visão estratégica, além de boa comunicação e postura.  
 
 ![rafaeljrt GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeljrt&show_icons=true&theme=dark)
 
@@ -36,7 +23,6 @@ Profissional com mais de 25 anos de experiência em *Infraestrutura de TI, com f
 
 
 ### 🔐 Segurança da Informação  
-✔️ *Firewalls, DLP, VPN*  
 
 <p align="left">
   
@@ -63,7 +49,6 @@ Profissional com mais de 25 anos de experiência em *Infraestrutura de TI, com f
 </p>
 
 ### ☁️ Cloud Security  
-✔️ *AWS, Azure, GPC, OCI*  
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -94,7 +79,7 @@ Profissional com mais de 25 anos de experiência em *Infraestrutura de TI, com f
 - Administração de e-mails Zimbra, Microsoft AD, DNS, DHCP, File Server e Print Server e GPO.
 - Responsável por criação e pesquisa de ETP, TR, ATA e outros documentos para contratações e compra de equipamentos e serviços. E outras negociações com o PRODERJ.
 
-### 🔹 *Analista de infraestrutura de TI / Rioprevidência Fundo Único de Previdência Social do Estado do Rio de Janeiro (2022 - 2023)  
+### 🔹 Analista de infraestrutura de TI / Rioprevidência Fundo Único de Previdência Social do Estado do Rio de Janeiro (2022 - 2023)  
 - Rioprevidência Fundo Único de Previdência Social do Estado do Rio de Janeiro
 Fiscal Técnico do Contrato de TI. Servidor Público especialmente designado da área de TI, indicado pela autoridade competente.
 - Coordenação e supervisão de equipe técnica de TI (Empresas terceirizadas)
@@ -105,9 +90,7 @@ Administração do Microsoft Office 365 SharePoint, Active Directory, DNS, DHCP,
 (Mais experiências disponíveis no LinkedIn) 
 
   
-
 ## Tecnologia do dia a dia 
-
 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)
@@ -124,28 +107,16 @@ Administração do Microsoft Office 365 SharePoint, Active Directory, DNS, DHCP,
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-
-
-
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
-
-
-
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-## Atendimento em geral
-
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![BlackBerry](https://img.shields.io/badge/blackberry-808080.svg?style=for-the-badge&logo=blackberry&logoColor=white)
-
-
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+

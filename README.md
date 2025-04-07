@@ -2,7 +2,6 @@
 
 🔐 *Especialista em Infraestrutura e Segurança da Informação*  
 📍 Rio de Janeiro – RJ | Disponível para mudanças e viagens  
- 🔗 [LinkedIn](https://www.linkedin.com/in/rafaeljrt/)  
  📧 [rafaeljrt@gmail.com](mailto:rafaeljrt@gmail.com)  
 
  🏅Cybersecurity | Infraestrutura | CISCO | Microsoft | Linux | Zabbix | GLPI | ITIL | AWS | Azure | Cloud | VMware | Proxmox🏅

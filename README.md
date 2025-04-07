@@ -11,7 +11,7 @@ ok
 
 Teste
 
-<a href="whatsapp://5521972221133?text=Olá esse e o meu numero para contato!! &ndash; LINK" title="Acesse de seu smartphone para enviar por WhatsApp">WhatsApp</a>
+<a href="intent://send/21972221133#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end">Olá, vamos Conversar?</a>
 
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)

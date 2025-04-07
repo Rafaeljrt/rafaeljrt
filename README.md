@@ -74,7 +74,7 @@ Possuo experiência em redes corporativas, atuando em empresas de médio e grand
 - Administração do Microsoft Office 365 SharePoint, Active Directory, DNS, DHCP, File Server e GPO  
 - Suporte a ambientes on-premise e cloud, monitoramento e administração de equipamentos e servidores Windows e Linux 
 
-### 🔹 *Assessor de Infraestrutura Tecnológica - Projeto temporário* | EMATER - RIO  (Setembro 2023 - Dezembro 2023)
+### 🔹 *Assessor de Infraestrutura Tecnológica - Projeto temporário* | EMATER - RIO  (2023)
 - Suporte a ambientes on-premise e cloud, monitoramento e administração de equipamentos e servidores Windows e Linux  
 - Implantação de servidores AD e File Server com redundância na nuvem - PRODERJ.  
 - Administração de e-mails Zimbra, Microsoft AD, DNS, DHCP, File Server e Print Server e GPO.

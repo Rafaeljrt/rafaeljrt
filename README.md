@@ -7,11 +7,15 @@ ok
 
  🔗 [LinkedIn](https://www.linkedin.com/in/rafaeljrt/)  
  📧 [rafaeljrt@gmail.com](mailto:rafaeljrt@gmail.com)  
- WhatsApp: 21 972221133
+
 
 Teste
 
+<a href="whatsapp://5521972221133?text=Olá esse e o meu numero para contato!! &ndash; LINK" title="Acesse de seu smartphone para enviar por WhatsApp">WhatsApp</a>
+
+
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -145,4 +149,3 @@ Administração do Microsoft Office 365 SharePoint, Active Directory, DNS, DHCP,
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
